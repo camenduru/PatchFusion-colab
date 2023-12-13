@@ -18,6 +18,7 @@ https://arxiv.org/abs/2312.02284
 https://zhyever.github.io/patchfusion/
 
 ### 🖼 Output
+![image](https://github.com/camenduru/PatchFusion-colab/assets/54370274/5ab957ee-7426-4cca-9387-025d917db108)
 
 ### 🏢 Sponsor
 https://modelslab.com
