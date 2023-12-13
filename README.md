@@ -6,7 +6,7 @@
 
 | Colab | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/PatchFusion-colab/blob/main/PatchFusion_colab.ipynb) | PatchFusion_colab
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/PatchFusion-colab/blob/main/PatchFusion_colab.ipynb) | PatchFusion_colab (Pro Colab 😭)
 
 ### 🧬 Code
 https://github.com/zhyever/PatchFusion
